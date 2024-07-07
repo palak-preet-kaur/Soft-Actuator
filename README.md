@@ -1,1 +1,1 @@
-Developed a pneumatic soft actuator that mimics natural crawling through air pressure control, offering high flexibility and efficient locomotion. Powered by relays, a pump, and an Arduino, ensuring synchronized and reliable performance for practical soft robotics applications.
+We created a pneumatic soft actuator that simulates natural crawling using air pressure control, providing high flexibility and efficient movement. Powered by relays, a pump, and an Arduino, it provides coordinated and dependable performance for practical soft robotics applications.
